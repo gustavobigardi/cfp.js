@@ -1,0 +1,26 @@
+{
+  "name": "cfp.js",
+  "version": "1.0.0",
+  "description": "Call4Papers application made using NodeJS, MongoDB and ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavobigardi/cfp.js.git"
+  },
+  "keywords": [
+    "CallForPapers",
+    "C4P",
+    "NodeJS",
+    "MongoDB",
+    "ReactJS"
+  ],
+  "author": "Gustavo Bellini Bigardi <gbbigardi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gustavobigardi/cfp.js/issues"
+  },
+  "homepage": "https://github.com/gustavobigardi/cfp.js#readme"
+}
